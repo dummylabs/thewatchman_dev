@@ -1,6 +1,6 @@
 {
-    "domain": "watchman",
-    "name": "Watchman",
+    "domain": "watchman_dev",
+    "name": "Watchman (DEV)",
     "codeowners": ["@dummylabs"],
     "config_flow": true,
     "documentation": "https://github.com/dummylabs/thewatchman",

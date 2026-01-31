@@ -2,7 +2,7 @@
 
 from homeassistant.const import Platform
 
-DOMAIN = "watchman"
+DOMAIN = "watchman_dev"
 DOMAIN_DATA = f"{DOMAIN}_data"
 VERSION = "0.8.3-dev6"
 
